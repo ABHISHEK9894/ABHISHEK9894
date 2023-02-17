@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ABHISHEK9894 a Certified Scrum Product Owner (CSPO).
-- 👀 I am currently a Data Analyst Intern at Berkshire and Spencer Consulting,
+- 👋 Hi, I’m @ABHISHEK9894, a Certified Scrum Product Owner (CSPO).
+- 👀 I am currently working as a System Engineer at Global Mobility Services
 - 👀 who loves playing around with the data to find every possible solution for the problem.
 - 👀 I have 3 years of experience working as an analyst in the customer service domain, from solving customer queries to writing SQL queries.
 - 🌱 I’m currently learning Data Engineering, Hadoop and its integration with Cloud services like AWS and Azure.
